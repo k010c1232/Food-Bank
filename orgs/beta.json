@@ -1,6 +1,7 @@
 {
   "orgName": "Food-Bank - Beta Test Org",
   "edition": "Developer",
+  "language": "en_US",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
