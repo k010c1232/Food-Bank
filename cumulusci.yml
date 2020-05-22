@@ -3,6 +3,7 @@ project:
     name: Food-Bank
     package:
         name:  Food-Bank
+        namespace: k010c1232One
         api_version: '48.0'
     source_format: sfdx
 
